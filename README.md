@@ -19,5 +19,5 @@
  - php artisan migrate
  - php artisan serve
 
- ##Build Frontend 
+ ## Build Frontend 
  - npm run build
