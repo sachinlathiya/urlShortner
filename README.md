@@ -14,11 +14,13 @@
 
 
 ## Start Project
-``` 
- npm install
- npm run dev
+```
+ composer install
  php artisan migrate
  php artisan serve
+
+ npm install
+ npm run dev
 ```
 
  ## Build Frontend 
