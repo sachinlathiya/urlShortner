@@ -7,7 +7,7 @@
 
 ## env variable
 ```
-    SAFE_BROWSING_API_KEY="AIzaSyDcMUNE0F9V2NOIprQ_e8RdDrB59k5B1EQ" #trial api key i have used currently
+    SAFE_BROWSING_API_KEY="" #trial api key i have used currently
 ```
 
 
